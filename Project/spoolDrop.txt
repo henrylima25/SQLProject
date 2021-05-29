@@ -1,0 +1,35 @@
+Script run on Thu 12/05/2019 at 01:04 PM
+Script run by  lima037  on server  X  with db  Y
+
+BEGIN
+Dropping Visit_CostOfProcedures
+----------------------------
+DROP TABLE
+ 
+Dropping Visit_NameOfProcedures
+----------------------------
+DROP TABLE
+ 
+Dropping Visit
+----------------------------
+DROP TABLE
+ 
+Dropping Pet
+----------------------------
+DROP TABLE
+ 
+Dropping Customer
+----------------------------
+DROP TABLE
+ 
+Dropping Groomer;
+----------------------------
+DROP TABLE
+ 
+Dropping Assistant
+----------------------------
+DROP TABLE
+COMMIT
+ 
+----------------------------
+End of script

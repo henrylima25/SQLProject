@@ -1,0 +1,35 @@
+Script run on Thu 12/05/2019 at 01:04 PM
+Script run by  lima037  on server  X  with db  Y
+
+BEGIN
+Creating Assistant table
+----------------------------
+CREATE TABLE
+ 
+Creating Groomer table
+----------------------------
+CREATE TABLE
+ 
+Creating Customer table
+----------------------------
+CREATE TABLE
+ 
+Creating Pet table
+----------------------------
+CREATE TABLE
+ 
+Creating Visit table
+----------------------------
+CREATE TABLE
+ 
+Creating Visit_NameOfProcedures table
+----------------------------
+CREATE TABLE
+ 
+Creating Visit_CostOfProcedures table
+----------------------------
+CREATE TABLE
+COMMIT
+ 
+----------------------------
+End of script

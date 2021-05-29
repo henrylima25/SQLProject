@@ -1,0 +1,26 @@
+Script run on Thu 12/05/2019 at 02:18 PM
+Script run by  lima037  on server  X  with db  Y
+
+BEGIN
+-- Display Assistants that worked with Groomers
+ assistid | groomid 
+----------+---------
+  1410012 | 4071884
+  1412045 | 4074321
+  1415236 | 4077041
+  1418523 | 4073248
+(4 rows)
+
+-- Display Customers that have had their service recorded
+        name        | dateofservice 
+--------------------+---------------
+ Jayden Warren      | 2017-01-13
+ Mabel Bolton       | 2017-01-19
+ Rojin Bentley      | 2017-05-02
+ Clarissa Blackwell | 2017-03-21
+(4 rows)
+
+COMMIT
+ 
+----------------------------
+End of script

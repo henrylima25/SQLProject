@@ -1,0 +1,24 @@
+Script run on Thu 12/05/2019 at 02:26 PM
+Script run by  lima037  on server  X  with db  Y
+
+BEGIN
+DELETE 0
+DELETE 0
+DELETE 0
+DELETE 0
+DELETE 0
+DELETE 0
+DELETE 0
+INSERT 0 10
+INSERT 0 10
+INSERT 0 10
+INSERT 0 10
+INSERT 0 10
+INSERT 0 10
+INSERT 0 10
+UPDATE 1
+UPDATE 1
+COMMIT
+ 
+----------------------------
+End of script
